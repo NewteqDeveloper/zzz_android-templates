@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- Login activity -->
+    <string name="login_error_invalid_email">This email address is invalid</string>
+    <string name="login_error_invalid_password">This password is too short</string>
+    <string name="login_error_unable_to_login">Username or password incorrect</string>
+    <string name="login_error_field_required">This field is required</string>
+    <string name="login_progress_signing_in">Signing in&#8230;</string>
+    
+</resources>

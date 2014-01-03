@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- Login Activty -->
+    <string name="login_action_sign_in_register"><b>Sign in</b> or register</string>
+    <string name="login_action_sign_in_short">Sign in</string>
+    <string name="login_action_forgot_password">Recover lost password</string>
+    
+    <!-- Misc -->
+    <string name="action_logout">Logout</string>
+    
+</resources>
