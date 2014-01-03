@@ -42,7 +42,7 @@ The instructions provided here will help you make use of the android login templ
     </application>
 }}}
 
-  **ENSURE that you make the necessary package name changes**
+  ***ENSURE that you make the necessary package name changes***
 
   * Continue development using naming conventions from this template
 
