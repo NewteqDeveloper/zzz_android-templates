@@ -1,0 +1,1 @@
+This project contains templates that will allow you to easily get started with your android application
